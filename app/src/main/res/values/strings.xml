@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">BarcodeScanning</string>
     <string name="camera_x">CameraX</string>
-    <string name="camera">Kamera</string>
-    <string name="gallery">Galeri</string>
-    <string name="analyze">Analyze</string>
+    <string name="gallery">Open Gallery</string>
+    <string name="cropImage">Crop Image</string>
+    <string name="findLink">Find Link</string>
+    <string name="showLink">Show Link</string>
     <string name="empty_image_warning">Input Image First!</string>
 </resources>
